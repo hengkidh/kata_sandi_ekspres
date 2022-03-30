@@ -16,7 +16,7 @@
         <h1>Kata Sandi Ekspres</h1>
         <input type="text" id="kolom" class="kolom" value="<?php include('acak.php') ?>" disabled>
         <button class="tombol tombol-kuning" onclick="reload()"><i class="fa fa-refresh fa-spin"></i></button>
-        <button class="tombol tombol-aqua" onclick="salin()">Salin</button>
+        <button class="tombol tombol-aqua" onclick="salin()"><i class="fa fa-copy"></i></button>
     </div>
 
 
