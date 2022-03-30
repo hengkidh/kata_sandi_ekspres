@@ -17,6 +17,7 @@
         <input type="text" id="kolom" class="kolom" value="<?php include('acak.php') ?>" disabled>
         <button class="tombol tombol-kuning" onclick="reload()"><i class="fa fa-refresh fa-spin"></i></button>
         <button class="tombol tombol-aqua" onclick="salin()"><i class="fa fa-copy"></i></button>
+        <p>Source code is on my <i class="fa-brands fa-github"></i> <a href="https://github.com/hengkidh/kata_sandi_ekspres">GitHub</a></p>
     </div>
 
 
