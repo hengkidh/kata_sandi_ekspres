@@ -36,6 +36,7 @@ body {
 
 .kolom {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: white;
     font-size: 16px;
     line-height: 20px;
     border: none;
